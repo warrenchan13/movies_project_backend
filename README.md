@@ -1,3 +1,4 @@
-# movies_project_backend
+# Movies Project Backend
 
-# Utilized Java, Spring Boot, Java Persistence API, and MongoDB
+Self-learning Java
+Utilized Java, Spring Boot, Java Persistence API, and MongoDB
