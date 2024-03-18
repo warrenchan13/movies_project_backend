@@ -6,9 +6,12 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.Map;
+import java.util.Optional;
 
 @RestController // used to create RESTful web services using Spring MVC.
 @RequestMapping("/api/reviews")
+@CrossOrigin(origins = "*")
+
 public class ReviewController {
     @Autowired
     private ReviewService reviewService;
