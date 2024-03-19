@@ -1,6 +1,6 @@
 # Movies Project Backend
 
-Self-learning Java\
+Self-learning Java stack\
 Utilized Java, Spring Boot, Java Persistence API, and MongoDB
 
 # Homepage with all the movies
